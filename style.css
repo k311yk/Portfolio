@@ -47,9 +47,9 @@ h2 {
     margin-bottom: 100px;
 }
 a:link {
-  color: rgb(0, 0, 0); 
+  color: black; 
   background-color: transparent; 
-  text-decoration: underline;
+  text-decoration: none;
 }
 .button {
   background-color: white;
