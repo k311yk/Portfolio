@@ -1,5 +1,8 @@
 /* Place your CSS styles in this file */
-
+<!DOCTYPE html>
+<html>
+<head>
+<style>
 body {background-color: rgb(255, 255, 255);}
 
 main {
@@ -79,4 +82,4 @@ iframe{
     margin-right: 100px;
     margin-top: 600px;
 }
-
+</html> 
