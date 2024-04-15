@@ -35,7 +35,9 @@ h2 {
     margin-right: 30px;
     font-size: 35px;
 }
-
+.column {
+    margin-bottom: 100px;
+}
 a:link {
   color: rgb(0, 0, 0); 
   background-color: transparent; 
