@@ -78,7 +78,7 @@ img {
     display: block; /* Make sure it doesn't affect other elements' layout */
     margin: 200px;
     margin-left: 100px;
-    margin-top: 500px;
+    margin-top: 150px;
 }
 img2{
     width: 100%; /* Make the image fill its container horizontally */
@@ -92,6 +92,6 @@ img2{
 iframe{
    margin: 200px;
     margin-right: 100px;
-    margin-top: 600px;
+    margin-top: 300px;
 }
 </html> 
