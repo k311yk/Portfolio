@@ -30,10 +30,16 @@ h1 {
     font-size: 17px;
     margin-top: 50px;
     color: rgb(0, 0, 0); 
-    text-decoration: none;
-    
+    text-decoration: none;  
+}
+body {
+    display: flex;
+    justify-content: space-between; /* Aligns elements to the start and end edges of the container */
 }
 
+h1, p {
+    margin: 30px; /* Remove default margin */
+}
 h2 {
     text-align: left;
     font-family: Arial, Sans Serif;
