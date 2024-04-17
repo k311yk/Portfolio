@@ -132,10 +132,10 @@ footer {
     font-size: 9px;
     font-family: Sans-serif; Arial;
     color: rgb(0, 0, 0);
-    text-align: center; /* Center-align the copyright notice */
-    padding: 10px 0; /* Add padding to the top and bottom of the footer */
-    position: absolute;
-    width: 100%; /* Full width of the viewport */
-    bottom: 0; /* Align the footer to the bottom */
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
 }
 </html> 
