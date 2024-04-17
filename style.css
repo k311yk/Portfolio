@@ -49,7 +49,7 @@ h2 {
 a:link {
   color: black; 
   background-color: transparent; 
-  text-decoration: underline;
+  text-decoration: none;
 }
 .button {
   background-color: white;
@@ -94,7 +94,4 @@ iframe{
     margin-right: 100px;
     margin-top: 300px;
 }
-a {
-      text-decoration: none;
-    }
 </html> 
