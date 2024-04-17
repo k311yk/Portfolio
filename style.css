@@ -98,20 +98,18 @@ h5 {
 img {
     width: 100%; /* Make the image fill its container horizontally */
     max-width: 350px; /* Limit the maximum width of the image */
-    height: 500px; /* Maintain the aspect ratio of the image */
+    height: auto; /* Maintain aspect ratio */
+    border: none; /* Remove any border */
+    padding: 0; /* Remove any padding */
     display: block; /* Make sure it doesn't affect other elements' layout */
     margin: 200px;
     margin-left: 100px;
     margin-top: 150px;
 }
-img2 {
-    width: 100%; /* Make the image fill its container horizontally */
-    max-width: 350px; /* Limit the maximum width of the image */
-    height: 500px; /* Maintain the aspect ratio of the image */
-    display: block; /* Make sure it doesn't affect other elements' layout */
-    margin: 200px;
-    margin-left: 400px;
-    margin-top: 500px;
+.gallery {
+    display: flex;
+    flex-wrap: wrap; /* Allow items to wrap onto multiple lines */
+    gap: 20px; /* Adjust the space between images */
 }
 iframe {
    margin: 200px;
