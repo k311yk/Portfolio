@@ -121,7 +121,14 @@ iframe {
 }
 #soccer-video {
     width: 800px;
-    height: 400px;
+    height: 500px;
+}
+.video-container {
+    flex: 1;
+}
+.text {
+    flex: 1;
+    padding-right: 20px;
 }
 footer {
     text-align: center; /* Center-align the copyright notice */
