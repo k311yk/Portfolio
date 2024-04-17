@@ -123,5 +123,11 @@ iframe {
     width: 800px;
     height: 400px;
 }
-
+footer {
+    text-align: center; /* Center-align the copyright notice */
+    padding: 10px 0; /* Add padding to the top and bottom of the footer */
+    position: fixed; /* Fixed position at the bottom of the viewport */
+    width: 100%; /* Full width of the viewport */
+    bottom: 0; /* Align the footer to the bottom */
+}
 </html> 
