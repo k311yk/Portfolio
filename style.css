@@ -81,7 +81,7 @@ img {
     margin-left: 100px;
     margin-top: 150px;
 }
-img2{
+img2 {
     width: 100%; /* Make the image fill its container horizontally */
     max-width: 350px; /* Limit the maximum width of the image */
     height: 500px; /* Maintain the aspect ratio of the image */
@@ -90,7 +90,7 @@ img2{
     margin-left: 400px;
     margin-top: 500px;
 }
-iframe{
+iframe {
    margin: 200px;
     margin-right: 100px;
     margin-top: 300px;
