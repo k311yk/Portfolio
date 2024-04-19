@@ -109,7 +109,7 @@ img {
 .gallery {
     display: flex;
     flex-wrap: wrap; /* Allow items to wrap onto multiple lines */
-    gap: 20px; /* Adjust the space between images */
+    gap: 5px; /* Adjust the space between images */
 }
 iframe {
    margin: 200px;
@@ -132,7 +132,7 @@ footer {
     font-size: 9px;
     font-family: Sans-serif; Arial;
     color: rgb(0, 0, 0);
-    position: fixed;
+    position: relative;
     bottom: 0;
     width: 100%;
     text-align: center;
