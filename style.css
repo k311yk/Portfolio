@@ -4,7 +4,23 @@
 <head>
 <style>
 body {background-color: rgb(255, 255, 255);}
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #333;
+  overflow: hidden;
+}
 
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 17px 25px;
+  text-decoration: none;
+    font-family: Helvetica;
+    font-weight: normal;
+  font-size: 17px;
+}
 main {
     text-align: left;
     font-family: Helvetica;
